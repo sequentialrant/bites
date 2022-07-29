@@ -1,1 +1,2 @@
-# bites
+# Index
+* [SQL](https://github.com/sequentialrant/bites/blob/main/sql/sql_practice_problems.sql) - Solutions to problems from the book [SQL Practice Problems by Sylvia Moestl Vasilik](https://www.amazon.com/SQL-Practice-Problems-learn-doing/dp/1520807635/ref=sr_1_1?crid=8OMZE17ZC13F&keywords=SQL+Practice+Problems+by+Sylvia+Moestl+Vasilik&qid=1659086496&sprefix=sql+practice+problems+by+sylvia+moestl+vasilik%2Caps%2C378&sr=8-1)
