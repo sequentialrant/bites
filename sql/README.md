@@ -1,0 +1,1 @@
+Solutions to problems from the book [SQL Practice Problems by Sylvia Moestl Vasilik](https://www.amazon.com/SQL-Practice-Problems-learn-doing/dp/1520807635/ref=sr_1_1?dchild=1&keywords=SQL+Practice+Problems&qid=1632642552&sr=8-1)
